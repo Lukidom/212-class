@@ -1,0 +1,20 @@
+I created this because I could not make the docx type response file work.
+
+~ problem one response
+    - create new list
+    - iterate with for loop
+    - find multiples by increasing number by one and multiplying by the base
+    - return new list
+
+These are the basic logic factors I implemented. 
+using a for loop to iterate through the new list I had it multiply by the base number than I increased it by one,
+while increasing the index by one each loop as well. 
+
+Problem 2
+
+    - create new list with needed range using GetRange
+    - remove same amount from 1st list using RemoveRange
+    - append 2nd list to 1st list using AddRange
+
+These simple functions will "rotate" the list over the specified amount. 
+c:\Users\Swing\Downloads\prove1-212-screenshot.JPG
